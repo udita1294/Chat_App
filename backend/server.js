@@ -19,7 +19,6 @@ io.on('connection', (socket) => {
 
     socket.on('joinRoom', async (userName) => {
         console.log(`${userName} is joining the group.`);
-        alert(`${userName} is joining the group.`);
 
         await socket.join(ROOM);
 
