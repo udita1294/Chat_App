@@ -13,6 +13,7 @@ This chat app includes:
 - 🔹 WebSockets (Socket.IO) for instant message delivery
 
 
-<img width="1908" height="866" alt="image" src="https://github.com/user-attachments/assets/4d16cc74-6f7f-4e5d-a0ac-285aaeb291fc" />
+<img width="1900" height="905" alt="image" src="https://github.com/user-attachments/assets/b93c6cf1-65a0-489e-b297-4e41ed27d591" />
+
 
 
